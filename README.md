@@ -1,1 +1,1 @@
-<img src="/path/to/img.jpg" width="450px" height="[300px" title="px(픽셀) 크기 설정" alt="RubberDuck](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA1MTVfNDYg%2FMDAxNjUyNjE4OTUxMTA5.FxO6NO5k9Dv05kz1J-mRAc9QmqkzbboBrpuE_XmEV9Qg.PG56G4bH3fiPQdrAWGrPu0L8ABYrWo96BdiecxM5fAYg.JPEG.papasun88%2FFDE8ECF7-42FC-407B-8D74-33A805CA2E86.jpeg&type=a340)"></img><br/>
+<img src="/path/to/img.jpg" width="<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>"></img><br/>
